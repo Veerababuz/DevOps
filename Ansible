@@ -1,0 +1,5 @@
+python --version
+yum install python-pip -y
+pip install ansible
+pip install --upgrade pip
+ansible --version
